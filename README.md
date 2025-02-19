@@ -1,7 +1,7 @@
 ## Hi there my name is meera 👋
 
-I am a 4th year Computer Science student at **SFSU**!
-The first tech I owned was a Wii
+I am a 4th year Computer Science student at **SFSU**! /n
+The first tech I owned was a Wii /n
 My hometown is *Santa Clarita*
 My email is mshiroya@sfsu.edu
 Im planning to continue my education with a masters in health informatics. My hobbies include baking, traveling and eating. 
