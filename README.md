@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there my name is meera 👋
 
+I am a 4th year Computer Science student at **SFSU**!
+The first tech I owned was a Wii
+My hometown is *Santa Clarita*
+My email is mshiroya@sfsu.edu
+Im planning to continue my education with a masters in health informatics. My hobbies include baking, traveling and eating. 
 <!--
 **meeras101/meeras101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
